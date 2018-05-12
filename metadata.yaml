@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17550#Les-femmes-d-artistes
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-01-20'
 gutenberg_type: Text
